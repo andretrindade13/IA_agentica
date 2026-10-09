@@ -1,0 +1,104 @@
+[
+  {
+    "codigo": "KB-EXM-HEM",
+    "titulo": "Hemograma completo: orientações ao paciente",
+    "tipo": "exame",
+    "arquivo": "KB-EXM-HEM.pdf"
+  },
+  {
+    "codigo": "KB-EXM-GLI",
+    "titulo": "Glicemia de jejum: orientações ao paciente",
+    "tipo": "exame",
+    "arquivo": "KB-EXM-GLI.pdf"
+  },
+  {
+    "codigo": "KB-EXM-LIP",
+    "titulo": "Perfil lipídico: orientações ao paciente",
+    "tipo": "exame",
+    "arquivo": "KB-EXM-LIP.pdf"
+  },
+  {
+    "codigo": "KB-EXM-TSH",
+    "titulo": "TSH: orientações ao paciente",
+    "tipo": "exame",
+    "arquivo": "KB-EXM-TSH.pdf"
+  },
+  {
+    "codigo": "KB-EXM-CRE",
+    "titulo": "Ureia e creatinina: orientações ao paciente",
+    "tipo": "exame",
+    "arquivo": "KB-EXM-CRE.pdf"
+  },
+  {
+    "codigo": "KB-EXM-USA",
+    "titulo": "Ultrassom de abdome total: orientações ao paciente",
+    "tipo": "exame",
+    "arquivo": "KB-EXM-USA.pdf"
+  },
+  {
+    "codigo": "KB-EXM-USP",
+    "titulo": "Ultrassom pélvico: orientações ao paciente",
+    "tipo": "exame",
+    "arquivo": "KB-EXM-USP.pdf"
+  },
+  {
+    "codigo": "KB-EXM-CUR",
+    "titulo": "Curva glicêmica (3 horas): orientações ao paciente",
+    "tipo": "exame",
+    "arquivo": "KB-EXM-CUR.pdf"
+  },
+  {
+    "codigo": "KB-EXM-COL",
+    "titulo": "Colonoscopia: orientações ao paciente",
+    "tipo": "exame",
+    "arquivo": "KB-EXM-COL.pdf"
+  },
+  {
+    "codigo": "KB-EXM-RMC",
+    "titulo": "Ressonância de abdome com contraste: orientações ao paciente",
+    "tipo": "exame",
+    "arquivo": "KB-EXM-RMC.pdf"
+  },
+  {
+    "codigo": "KB-GER-001",
+    "titulo": "Guia de nomes populares e como ler o seu pedido médico",
+    "tipo": "geral",
+    "arquivo": "KB-GER-001.pdf"
+  },
+  {
+    "codigo": "KB-GER-002",
+    "titulo": "Como combinar vários exames no mesmo dia",
+    "tipo": "geral",
+    "arquivo": "KB-GER-002.pdf"
+  },
+  {
+    "codigo": "KB-GER-003",
+    "titulo": "Chegada, documentos e acompanhante",
+    "tipo": "geral",
+    "arquivo": "KB-GER-003.pdf"
+  },
+  {
+    "codigo": "KB-GER-004",
+    "titulo": "Cancelamento, remarcação e atrasos",
+    "tipo": "geral",
+    "arquivo": "KB-GER-004.pdf"
+  },
+  {
+    "codigo": "KB-GER-005",
+    "titulo": "Medicamentos de uso contínuo: o que o atendimento pode informar",
+    "tipo": "geral",
+    "arquivo": "KB-GER-005.pdf"
+  },
+  {
+    "codigo": "KB-GER-006",
+    "titulo": "Perguntas frequentes sobre jejum, água e preparo",
+    "tipo": "geral",
+    "arquivo": "KB-GER-006.pdf"
+  },
+  {
+    "codigo": "KB-GER-007",
+    "titulo": "Quando falar com um atendente e limites do atendimento digital",
+    "tipo": "geral",
+    "arquivo": "KB-GER-007.pdf"
+  }
+]
